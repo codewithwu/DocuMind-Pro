@@ -82,7 +82,7 @@ def get_text_splitter(
         separators: Optional[List[str]] = None
 ) -> RecursiveCharacterTextSplitter:
     """
-    获取配置好的文本分割器
+    获取配置好的文本分割器, 将长文本切分成适合处理的小块
     
     Args:
         chunk_size: 每个文本块的最大字符数
@@ -108,7 +108,7 @@ def get_text_splitter(
 
 
 if __name__ == "__main__":
-    test_file = 'src/document_processor/test.docx'
+    test_file = 'data/documents/test.docx'
 
     test_file_path  = Path(test_file)
     if test_file_path.exists():
