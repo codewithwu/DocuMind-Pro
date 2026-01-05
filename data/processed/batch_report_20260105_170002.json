@@ -1,0 +1,199 @@
+{
+  "batch_id": "20260105_170002",
+  "start_time": "2026-01-05T17:00:02.952402",
+  "total_files": 3,
+  "processed_files": 3,
+  "successful": 3,
+  "failed": 0,
+  "results": [
+    {
+      "file_path": "data/documents/test.docx",
+      "file_name": "test.docx",
+      "status": "success",
+      "start_time": "2026-01-05T17:00:02.952859",
+      "chunks": [],
+      "error": null,
+      "end_time": "2026-01-05T17:00:02.965108",
+      "chunk_count": 5,
+      "chunks_preview": [
+        {
+          "content_preview": "武鑫\t男 · 32岁 · 工作8年10个月 · 保密 · 深圳 · 本科 · 共青团员    13425143012    13425143012@163.com      13425143012  ",
+          "chunk_size": 934,
+          "metadata_keys": [
+            "source",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "算法模块集成：深度参与并实现机器人的核心能力集成，包括全局/局部路径规划算法模块的接入与适配、基于规则和状态的多机 调度算法的服务化封装，确保系统决策的实时性与准确性。    架构设计与优化：采用 P",
+          "chunk_size": 977,
+          "metadata_keys": [
+            "source",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "职责业绩：负责平台后端系统的开发与维护，涵盖会员、优惠券及商品推荐系统。会员与权限系统：设计并实现完整的会员等级、积分与权限控制系统。  优惠券系统：独立设计并实现支持多种类型与规则的全生命周期优惠券",
+          "chunk_size": 917,
+          "metadata_keys": [
+            "source",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        }
+      ]
+    },
+    {
+      "file_path": "data/documents/test.pdf",
+      "file_name": "test.pdf",
+      "status": "success",
+      "start_time": "2026-01-05T17:00:02.952681",
+      "chunks": [],
+      "error": null,
+      "end_time": "2026-01-05T17:00:03.664960",
+      "chunk_count": 72,
+      "chunks_preview": [
+        {
+          "content_preview": "《夺情赌局：张居正的权谋孤注》  【简介】  假如，那一次张居正没有选择 “ 夺情 ” ，而是选择 \" 回乡守制 \" ，一切又会如何呢？  万历五年秋，首辅张居正面临人生最大危机 —— 父亲病逝。按制",
+          "chunk_size": 762,
+          "metadata_keys": [
+            "producer",
+            "creator",
+            "creationdate",
+            "moddate",
+            "source",
+            "total_pages",
+            "page",
+            "page_label",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "更鼓敲过三响，夜色如墨，浸透了首辅值房的每一寸空气。张居正终于批阅完最后一沓奏章，搁  下那支几乎与他手指融为一体的狼毫笔。连日政务的耗磨，加之月前收到的湖广家书中父亲病危  的消息，已将他心神熬到了",
+          "chunk_size": 955,
+          "metadata_keys": [
+            "producer",
+            "creator",
+            "creationdate",
+            "moddate",
+            "source",
+            "total_pages",
+            "page",
+            "page_label",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "就在这时，值房外传来一阵压抑的、却急促异常的脚步声，紧接着是心腹游七那变了调的通禀：  “ 老爷！老爷！江陵 …… 江陵六百里加急！ ” 张居正的心脏仿佛被一只冰手攥紧。他霍然起身，带倒了身后的椅子，",
+          "chunk_size": 796,
+          "metadata_keys": [
+            "producer",
+            "creator",
+            "creationdate",
+            "moddate",
+            "source",
+            "total_pages",
+            "page",
+            "page_label",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        }
+      ]
+    },
+    {
+      "file_path": "data/documents/test.pptx",
+      "file_name": "test.pptx",
+      "status": "success",
+      "start_time": "2026-01-05T17:00:02.953155",
+      "chunks": [],
+      "error": null,
+      "end_time": "2026-01-05T17:00:04.700395",
+      "chunk_count": 62,
+      "chunks_preview": [
+        {
+          "content_preview": "# 《昭胤风云录》——大纲\u000b\u000b## **一、世界观：昭胤朝概述**\u000b\u000b**时代背景**  \u000b昭胤朝立国一百五十年，已入季世。开国时仿唐设三省六部，经“永熙改制”后形成 **“内阁—司礼监—六部”** ",
+          "chunk_size": 996,
+          "metadata_keys": [
+            "source",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "。\u000b\u000b## **# **《昭胤风云录》核心人物群像设定（终版）**\u000b\u000b---\u000b\u000b## **一、主角阵营**\u000b\u000b### **1. 陆沉（字：明渊）**\u000b\u000b- **基础档案**：开场22岁，终卷约37岁。",
+          "chunk_size": 975,
+          "metadata_keys": [
+            "source",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "。\u000b    - 与**顾昭**：将其从理想主义者引导为实干家，是政治理念的传承者与诤友。\u000b- **成长弧光**：从**求存者**（利用规则）→ **棋手**（制定规则）→ **执棋者/立法者**（重建",
+          "chunk_size": 995,
+          "metadata_keys": [
+            "source",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "success_rate": 1.0,
+    "average_chunks_per_file": 46.333333333333336,
+    "processing_time": "0:00:01.749374"
+  },
+  "end_time": "2026-01-05T17:00:04.701776"
+}

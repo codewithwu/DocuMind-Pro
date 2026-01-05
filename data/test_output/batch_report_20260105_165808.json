@@ -1,0 +1,34 @@
+{
+  "batch_id": "20260105_165808",
+  "start_time": "2026-01-05T16:58:08.021881",
+  "total_files": 2,
+  "processed_files": 2,
+  "successful": 0,
+  "failed": 2,
+  "results": [
+    {
+      "file_path": "data/test_integration/test_document.txt",
+      "file_name": "test_document.txt",
+      "status": "error",
+      "start_time": "2026-01-05T16:58:08.022063",
+      "chunks": [],
+      "error": "不支持得到文件格式：.txt. 支持格式：.pdf、.docx, .doc, .pptx, .ppt",
+      "end_time": "2026-01-05T16:58:08.022685"
+    },
+    {
+      "file_path": "data/test_integration/test_document.md",
+      "file_name": "test_document.md",
+      "status": "error",
+      "start_time": "2026-01-05T16:58:08.022347",
+      "chunks": [],
+      "error": "不支持得到文件格式：.md. 支持格式：.pdf、.docx, .doc, .pptx, .ppt",
+      "end_time": "2026-01-05T16:58:08.022847"
+    }
+  ],
+  "summary": {
+    "success_rate": 0.0,
+    "average_chunks_per_file": 0,
+    "processing_time": "0:00:00.001129"
+  },
+  "end_time": "2026-01-05T16:58:08.023010"
+}

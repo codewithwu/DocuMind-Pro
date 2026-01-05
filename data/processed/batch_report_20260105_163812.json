@@ -1,0 +1,91 @@
+{
+  "batch_id": "20260105_163812",
+  "start_time": "2026-01-05T16:38:12.188880",
+  "total_files": 1,
+  "processed_files": 1,
+  "successful": 1,
+  "failed": 0,
+  "results": [
+    {
+      "file_path": "data/documents/test.pdf",
+      "file_name": "test.pdf",
+      "status": "success",
+      "start_time": "2026-01-05T16:38:12.189077",
+      "chunks": [],
+      "error": null,
+      "end_time": "2026-01-05T16:38:12.949136",
+      "chunk_count": 72,
+      "chunks_preview": [
+        {
+          "content_preview": "《夺情赌局：张居正的权谋孤注》  【简介】  假如，那一次张居正没有选择 “ 夺情 ” ，而是选择 \" 回乡守制 \" ，一切又会如何呢？  万历五年秋，首辅张居正面临人生最大危机 —— 父亲病逝。按制",
+          "chunk_size": 762,
+          "metadata_keys": [
+            "producer",
+            "creator",
+            "creationdate",
+            "moddate",
+            "source",
+            "total_pages",
+            "page",
+            "page_label",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "更鼓敲过三响，夜色如墨，浸透了首辅值房的每一寸空气。张居正终于批阅完最后一沓奏章，搁  下那支几乎与他手指融为一体的狼毫笔。连日政务的耗磨，加之月前收到的湖广家书中父亲病危  的消息，已将他心神熬到了",
+          "chunk_size": 955,
+          "metadata_keys": [
+            "producer",
+            "creator",
+            "creationdate",
+            "moddate",
+            "source",
+            "total_pages",
+            "page",
+            "page_label",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        },
+        {
+          "content_preview": "就在这时，值房外传来一阵压抑的、却急促异常的脚步声，紧接着是心腹游七那变了调的通禀：  “ 老爷！老爷！江陵 …… 江陵六百里加急！ ” 张居正的心脏仿佛被一只冰手攥紧。他霍然起身，带倒了身后的椅子，",
+          "chunk_size": 796,
+          "metadata_keys": [
+            "producer",
+            "creator",
+            "creationdate",
+            "moddate",
+            "source",
+            "total_pages",
+            "page",
+            "page_label",
+            "source_file",
+            "file_name",
+            "file_type",
+            "chunk_index",
+            "chunk_size",
+            "processor",
+            "content_preview"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "success_rate": 1.0,
+    "average_chunks_per_file": 72.0,
+    "processing_time": "0:00:00.761953"
+  },
+  "end_time": "2026-01-05T16:38:12.950833"
+}
